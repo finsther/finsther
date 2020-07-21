@@ -1,6 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, i'm finsther
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I am Cesar Salas. I am from Mexico. I love learn about new things.
+I am Finsther. I am from Mexico. I love learn about new things.
 
 - 🔭 I’m currently working on my README.md
 
