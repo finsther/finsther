@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, i'm finsther
+
+I am Cesar Salas. I am from Mexico. I love learn about new things.
+
+- 🔭 I’m currently working on my README.md
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=finsther&hide=["issues"]&show_icons=true)
 
 <!--
 **finsther/finsther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
