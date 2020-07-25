@@ -2,12 +2,33 @@
 
 I am Finsther. I am from Mexico. I love learn about new things.
 
-- 🔭 I’m currently working on my README.md ... Web development && Programming Languages
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently learning JavaScript... Web development && Programming Languages
 - 🌱 Loves C, C#, Java, JavaScript, Linux
 - 🎮 Video Games | 🎧 Music 
 - ⚡️ Fun fact: I really like to get complicated when i'm programming
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=finsther&hide=["issues"]&show_icons=true)
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="Finsther's github stats" src="https://github-readme-stats.vercel.app/api?username=finsther&show_icons=true&hide_border=true" />
+  </a>
+  
+  <!-- Your languages and tools. Be careful with the alignment. You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+</p>
 
 <div align="center">
 
