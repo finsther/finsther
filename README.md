@@ -40,9 +40,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 </p>
 
+### Follow me:
+
 <p align="center">
-  <i>Follow me:</i><br>
-  
   <a href="https://www.linkedin.com/in/cesarromerosalas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" align="center">
   </a>
