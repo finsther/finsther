@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 I am Finsther. I am from Mexico. I love learn about new things.
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/notifications/inbox-zero-dark.svg" />
 
 - 🔭 I’m currently learning JavaScript... Web development && Programming Languages
 - 🌱 Loves C, C#, Java, JavaScript, Linux
