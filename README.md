@@ -36,9 +36,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
 </p>
 
-<a href="https://github.com/onimur/handle-path-oz">
-  <img width="55%" align="right" alt="Finsther's github stats" src="https://github-readme-stats.vercel.app/api?username=finsther&show_icons=true&hide_border=true&theme=dark" />
-</a>
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="Finsther's github stats" src="https://github-readme-stats.vercel.app/api?username=finsther&show_icons=true&hide_border=true&theme=dark" />
+  </a>
+</p>
   
 ### Follow me:
 
