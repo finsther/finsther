@@ -46,7 +46,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   
 ### Follow me:
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/cesarromerosalas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" align="center">
   </a>
@@ -60,6 +60,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <br /><br />
 
-<div align="center">
-  ⭐️ From [finsther](https://github.com/finsther)
-</div>
+⭐️ From [finsther](https://github.com/finsther)
