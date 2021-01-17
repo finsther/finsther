@@ -22,10 +22,6 @@ I am Finsther. I am from Mexico. I love learn about new things.
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Finsther's github stats" src="https://github-readme-stats.vercel.app/api?username=finsther&show_icons=true&hide_border=true&theme=radical" />
-  </a>
-
 <!-- Your languages and tools. Be careful with the alignment. You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   <a><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
   <a><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a>
@@ -40,6 +36,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
 </p>
 
+<a href="https://github.com/onimur/handle-path-oz">
+  <img width="55%" align="right" alt="Finsther's github stats" src="https://github-readme-stats.vercel.app/api?username=finsther&show_icons=true&hide_border=true&theme=dark" />
+</a>
+  
 ### Follow me:
 
 <p align="center">
