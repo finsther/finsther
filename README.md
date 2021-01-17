@@ -28,16 +28,16 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <!-- Your languages and tools. Be careful with the alignment. You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   <a><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></a>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a>
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
 </p>
 
 ### Follow me:
