@@ -25,13 +25,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="Finsther's github stats" src="https://github-readme-stats.vercel.app/api?username=finsther&show_icons=true&hide_border=true&theme=radical" />
   </a>
-  
-  <a href="https://github.com/Daggy1234">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finsther&layout=compact" />
-  </a>
 
-  <!-- Your languages and tools. Be careful with the alignment. You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<!-- Your languages and tools. Be careful with the alignment. You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
+  <a><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
   <br />
@@ -57,5 +53,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to" align="center">
   </a>
 </p> 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ⭐️ From [finsther](https://github.com/finsther)
