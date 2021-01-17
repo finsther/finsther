@@ -16,6 +16,8 @@ I am Finsther. I am from Mexico. I love learn about new things.
 - 🎮 Video Games | 🎧 Music 
 - ⚡️ Fun fact: I really like to get complicated when i'm programming
 
+<br /><br />
+
 ### Languages and Tools: 
 
 <!-- Your github readme stats
@@ -34,13 +36,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
   <a><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a>
   <a><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a>
-</p>
-
-<p>
+  
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="Finsther's github stats" src="https://github-readme-stats.vercel.app/api?username=finsther&show_icons=true&hide_border=true&theme=dark" />
   </a>
 </p>
+
+<br /><br />
   
 ### Follow me:
 
