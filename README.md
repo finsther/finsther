@@ -58,7 +58,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
 </p> 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-⭐️ From [finsther](https://github.com/finsther)
+<br /><br />
+<div align="center">
+###⭐️ From [finsther](https://github.com/finsther)
+</div>
