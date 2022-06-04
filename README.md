@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="48" height="48">
 
 <h1 align="center">I'm finsther 💻</h1>
 <h3 align="center">I am from Mexico. I love learn about new things.</h3>
