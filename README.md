@@ -28,7 +28,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+From: 25 November 2019 - To: 15 July 2023
+
+Total Time: 2,424 hrs 40 mins
+
+Java             1,671 hrs 51 mins>>>>>>>>>>>>>>>>>--------   68.95 %
+SQL              275 hrs 20 mins >>>----------------------   11.36 %
+XML              105 hrs 52 mins >------------------------   04.37 %
+CSS              93 hrs 21 mins  >------------------------   03.85 %
+Properties       85 hrs 19 mins  >------------------------   03.52 %
+HTML             35 hrs 22 mins  -------------------------   01.46 %
+Other            33 hrs 44 mins  -------------------------   01.39 %
+Python           30 hrs 3 mins   -------------------------   01.24 %
+TypeScript       23 hrs 28 mins  -------------------------   00.97 %
+JavaScript       15 hrs 25 mins  -------------------------   00.64 %
 ```
 
 <!--END_SECTION:waka-->
