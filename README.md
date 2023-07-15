@@ -26,4 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=finsther&theme=ayu-mirage&show_icons=true&locale=en" alt="finsther" /></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
