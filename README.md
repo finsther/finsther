@@ -51,22 +51,22 @@
 
   <!--START_SECTION:waka-->
 
-  ```txt
-  From: 25 November 2019 - To: 15 July 2023
+```txt
+From: 16 July 2022 - To: 16 July 2023
 
-  Total Time: 2,424 hrs 40 mins
+Total Time: 273 hrs 29 mins
 
-  Java             1,671 hrs 51 mins>>>>>>>>>>>>>>>>>--------   68.95 %
-  SQL              275 hrs 20 mins >>>----------------------   11.36 %
-  XML              105 hrs 52 mins >------------------------   04.37 %
-  CSS              93 hrs 21 mins  >------------------------   03.85 %
-  Properties       85 hrs 19 mins  >------------------------   03.52 %
-  HTML             35 hrs 22 mins  -------------------------   01.46 %
-  Other            33 hrs 44 mins  -------------------------   01.39 %
-  Python           30 hrs 3 mins   -------------------------   01.24 %
-  TypeScript       23 hrs 28 mins  -------------------------   00.97 %
-  JavaScript       15 hrs 25 mins  -------------------------   00.64 %
-  ```
+Java         137 hrs 37 mins ████████████▓░░░░░░░░░░░░   50.32 %
+SQL          43 hrs 39 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Python       29 hrs 41 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+TypeScript   23 hrs 28 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Properties   8 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+HTML         7 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Other        5 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+XML          3 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+C            3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+JSON         2 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+```
 
 <!--END_SECTION:waka-->
 </details>
