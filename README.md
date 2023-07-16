@@ -39,10 +39,14 @@
 -------
 &nbsp;
 
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" />
+  GitHub statistics and other measurable things
+</h3>
+
 <details>
   <summary>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" />
-    <h3>GitHub statistics and other measurable things</h3>
+    <b>GitHub Statistics</b>
   </summary>
 
   <!--START_SECTION:waka-->
@@ -66,3 +70,9 @@
 
 <!--END_SECTION:waka-->
 </details>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+[![Profile last updated](https://img.shields.io/github/last-commit/finsther/finsther/master?label=Last%20updated&style=flat)](https://github.com/finsther/finsther/commits)
