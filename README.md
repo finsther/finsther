@@ -52,20 +52,20 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2022 - To: 07 September 2023
+From: 08 September 2022 - To: 08 September 2023
 
-Total Time: 119 hrs 9 mins
+Total Time: 117 hrs 16 mins
 
-Ruby             34 hrs 56 mins  ███████▒░░░░░░░░░░░░░░░░░   29.32 %
-Python           29 hrs 41 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
-Java             20 hrs 17 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-SQL              9 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-JavaScript       7 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-JSON             3 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-C                3 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-XML              1 hr 54 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Properties       1 hr 33 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-HTML             1 hr 33 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Ruby             34 hrs 56 mins  ███████▒░░░░░░░░░░░░░░░░░   29.79 %
+Python           29 hrs 41 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+Java             18 hrs 44 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+SQL              8 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+JavaScript       8 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+JSON             3 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+C                3 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+YAML             2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+HTML             1 hr 33 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Properties       1 hr 24 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
