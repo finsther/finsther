@@ -52,17 +52,17 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2022 - To: 24 September 2023
+From: 25 September 2022 - To: 25 September 2023
 
-Total Time: 133 hrs 43 mins
+Total Time: 133 hrs 14 mins
 
-JavaScript       45 hrs 44 mins  ████████▓░░░░░░░░░░░░░░░░   34.21 %
-Ruby             37 hrs 34 mins  ███████░░░░░░░░░░░░░░░░░░   28.10 %
-Python           29 hrs 41 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
-Java             6 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-JSON             4 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-YAML             3 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-C                3 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JavaScript       45 hrs 44 mins  ████████▓░░░░░░░░░░░░░░░░   34.33 %
+Ruby             37 hrs 34 mins  ███████░░░░░░░░░░░░░░░░░░   28.20 %
+Python           29 hrs 41 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
+Java             6 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+JSON             4 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+YAML             3 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+C                3 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 CMake            46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 Other            45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 Cuda             21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
