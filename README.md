@@ -52,20 +52,20 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2022 - To: 31 October 2023
+From: 01 November 2022 - To: 01 November 2023
 
-Total Time: 236 hrs 52 mins
+Total Time: 238 hrs 13 mins
 
-JavaScript        135 hrs 43 mins ██████████████▒░░░░░░░░░░   57.30 %
-Ruby              39 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Python            29 hrs 43 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-YAML              10 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-JSON              6 hrs 52 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-C                 3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Other             3 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+JavaScript        138 hrs 21 mins ██████████████▓░░░░░░░░░░   58.08 %
+Ruby              39 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+Python            29 hrs 43 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+YAML              10 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+JSON              6 hrs 54 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+C                 3 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Other             3 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 Markdown          1 hr 48 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Java              1 hr 43 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 TypeScript        1 hr 26 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Text              1 hr 3 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
