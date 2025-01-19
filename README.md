@@ -52,17 +52,17 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2024 - To: 16 January 2025
+From: 18 January 2024 - To: 17 January 2025
 
-Total Time: 812 hrs 7 mins
+Total Time: 810 hrs 55 mins
 
-Ruby              312 hrs 24 mins █████████▓░░░░░░░░░░░░░░░   38.47 %
-TypeScript        215 hrs 29 mins ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
-JavaScript        197 hrs 2 mins  ██████░░░░░░░░░░░░░░░░░░░   24.26 %
+Ruby              312 hrs 26 mins █████████▓░░░░░░░░░░░░░░░   38.53 %
+TypeScript        215 hrs 30 mins ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
+JavaScript        195 hrs 7 mins  ██████░░░░░░░░░░░░░░░░░░░   24.06 %
 CSS               26 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 YAML              19 hrs 24 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-JSON              11 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Other             8 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+JSON              11 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Other             8 hrs 43 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 SQL               3 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Pug               2 hrs 55 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Markdown          2 hrs 44 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
