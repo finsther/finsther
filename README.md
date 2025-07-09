@@ -52,13 +52,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2024 - To: 07 July 2025
+From: 08 July 2024 - To: 08 July 2025
 
-Total Time: 633 hrs 44 mins
+Total Time: 634 hrs 5 mins
 
-TypeScript        234 hrs 18 mins █████████▒░░░░░░░░░░░░░░░   36.97 %
-JavaScript        193 hrs 44 mins ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-Ruby              81 hrs 13 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+TypeScript        234 hrs 20 mins █████████▒░░░░░░░░░░░░░░░   36.96 %
+JavaScript        193 hrs 45 mins ███████▓░░░░░░░░░░░░░░░░░   30.56 %
+Ruby              81 hrs 32 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
 Astro             35 hrs 30 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 JSON              18 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 YAML              15 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
