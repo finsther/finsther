@@ -52,18 +52,18 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2024 - To: 25 July 2025
+From: 26 July 2024 - To: 26 July 2025
 
-Total Time: 591 hrs 41 mins
+Total Time: 591 hrs 52 mins
 
-TypeScript        222 hrs 58 mins █████████▒░░░░░░░░░░░░░░░   37.69 %
-JavaScript        189 hrs 29 mins ████████░░░░░░░░░░░░░░░░░   32.02 %
-Ruby              54 hrs 34 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+TypeScript        222 hrs 58 mins █████████▒░░░░░░░░░░░░░░░   37.67 %
+JavaScript        189 hrs 29 mins ████████░░░░░░░░░░░░░░░░░   32.01 %
+Ruby              54 hrs 44 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
 Astro             40 hrs 42 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
 JSON              18 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 YAML              14 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 CSS               13 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Other             12 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Other             12 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 Bash              3 hrs 20 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 SQL               3 hrs 6 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
