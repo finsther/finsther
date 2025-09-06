@@ -52,16 +52,16 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2024 - To: 04 September 2025
+From: 05 September 2024 - To: 05 September 2025
 
-Total Time: 562 hrs 18 mins
+Total Time: 562 hrs 27 mins
 
-JavaScript        183 hrs 52 mins ████████▒░░░░░░░░░░░░░░░░   32.70 %
-TypeScript        164 hrs 45 mins ███████▒░░░░░░░░░░░░░░░░░   29.30 %
-Ruby              82 hrs 13 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Astro             52 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+JavaScript        183 hrs 37 mins ████████░░░░░░░░░░░░░░░░░   32.65 %
+TypeScript        163 hrs 38 mins ███████▒░░░░░░░░░░░░░░░░░   29.09 %
+Ruby              84 hrs 15 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Astro             52 hrs 17 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
 YAML              20 hrs 42 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-JSON              17 hrs 1 min    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JSON              16 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 Other             11 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 CSS               5 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Bash              3 hrs 16 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
