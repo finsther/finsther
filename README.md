@@ -52,20 +52,20 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2024 - To: 09 October 2025
+From: 10 October 2024 - To: 10 October 2025
 
-Total Time: 568 hrs 20 mins
+Total Time: 570 hrs 5 mins
 
-JavaScript        171 hrs 14 mins ███████▓░░░░░░░░░░░░░░░░░   30.13 %
-TypeScript        138 hrs 31 mins ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-Ruby              119 hrs 15 mins █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
-Astro             61 hrs 11 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-YAML              20 hrs 50 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-JSON              16 hrs 32 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Other             11 hrs 32 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-CSS               5 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-MDX               3 hrs 26 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Docker            3 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JavaScript        170 hrs 50 mins ███████▒░░░░░░░░░░░░░░░░░   29.97 %
+TypeScript        136 hrs 11 mins ██████░░░░░░░░░░░░░░░░░░░   23.89 %
+Ruby              124 hrs 42 mins █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+Astro             61 hrs 11 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+YAML              20 hrs 50 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+JSON              16 hrs 32 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Other             11 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+CSS               4 hrs 41 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+MDX               3 hrs 26 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Docker            3 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
