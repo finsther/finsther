@@ -52,20 +52,20 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2025 - To: 21 June 2026
+From: 22 June 2025 - To: 22 June 2026
 
-Total Time: 501 hrs 20 mins
+Total Time: 499 hrs
 
-Ruby          142 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.34 %
-Astro         126 hrs 59 mins       ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-Python        65 hrs 34 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-JavaScript    53 hrs 39 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-TypeScript    36 hrs 45 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-YAML          13 hrs 35 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Markdown      13 hrs 7 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Other         12 hrs 15 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-CSS           9 hrs 57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-JSON          8 hrs 20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Ruby          142 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.48 %
+Astro         125 hrs 39 mins       ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
+Python        65 hrs 34 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+JavaScript    53 hrs 29 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+TypeScript    36 hrs 20 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+YAML          13 hrs 35 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Markdown      13 hrs 8 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Other         12 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+CSS           9 hrs 56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+JSON          8 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
